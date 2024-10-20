@@ -4,7 +4,7 @@ This repository contains the shield files for the Gamebuddy to allow users to bu
 
 ## Usage
 
-Edit your west.yml file found in your zmk-config's config directory to add the pueo module. Example:
+Edit your west.yml file found in your zmk-config's config directory to add the Gamebuddy module. Example:
 
 ```
 manifest:
