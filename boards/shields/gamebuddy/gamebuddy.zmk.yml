@@ -1,0 +1,8 @@
+file_format: "1"
+id: "gamebuddy"
+name: "gamebuddy"
+type: shield
+url: https://github.com/Khufuhk/zmk-keyboards-gamebuddy
+requires: [nice_nano_v2]
+features:
+  - keys
