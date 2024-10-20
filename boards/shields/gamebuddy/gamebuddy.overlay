@@ -7,7 +7,7 @@
 
 / {
     chosen {
-        zmk,kscan = &kscan_0;
+        zmk,kscan = &kscan0;
     };
     
     default_transform: keymap_transform0 {
